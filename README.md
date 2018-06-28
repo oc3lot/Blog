@@ -12,3 +12,5 @@ GettingStartedOnPhoneGap - http://rahulpnath.com/blog/getting-started-with-phone
 IncrementalLoading - http://rahulpnath.com/blog/windows-phone-series-incremental-loading-multiple-data-sources-inside-a-pivot/
 
 UCWA.WindowsPhone - http://rahulpnath.com/blog/windows-phone-series-using-ucwa-to-connect-to-lync-server/
+
+[![DeepScan grade](https://deepscan.io/api/projects/2724/branches/19272/badge/grade.svg)](https://deepscan.io/dashboard#view=project&pid=2724&bid=19272)
